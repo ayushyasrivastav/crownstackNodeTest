@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"crownstack.currencies"}],"uuid":"b72fa39e41e14fe39a0157c0f52fe9f0"}
